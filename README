@@ -1,0 +1,1 @@
+A fully functionable Brainfuck parser with the limitation that loops must end in the same round of input as they started on.
